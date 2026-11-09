@@ -1,4 +1,5 @@
 # Little Things Club Project--- Static Website Deployment on AWS
+![Website](images1/wbsitemain.png)
 
 A small-scale AWS project that deploys a static website from a **private
 Amazon S3 bucket** to an **Ubuntu EC2 instance**, serves it with
